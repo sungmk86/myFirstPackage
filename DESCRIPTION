@@ -2,11 +2,10 @@ Package: myFirstPackage
 Title: Make Regular Expressions More Exciting
 Version: 0.0.0.9000
 Authors@R: 
-    person("Minkyung", "Sung", , "entemksung@gmail.com", role = c(""),
-           comment = c(ORCID = "https://orcid.org/0000-0001-6573-2622"))
+    person("Minkyung", "Sung", , "entemksung@gmail.com", role = c("aut", "cre"),
+           comment = c(ORCID = "0000-0001-6573-2622"))
 Description: This was built for practicing and learning on how to build a R package. Reference: https://r-pkgs.org/whole-game.html.
-License: `use_mit_license()`, `use_gpl3_license()` or friends to pick a
-    license
+License: MIT + file LICENSE
 Encoding: UTF-8
 Roxygen: list(markdown = TRUE)
 RoxygenNote: 7.2.1
